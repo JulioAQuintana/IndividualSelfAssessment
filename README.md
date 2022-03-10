@@ -1,1 +1,13 @@
-# IndividualSelfAssessment
+# Individual Self-Assessment 
+
+In the following one-page assessment I wrote the main activities and roles for final project, and team contribution during developing phase
+
+## My Roles during project
+Along final project process I develop different roles to contribute to achieve the goal, in the first segment I created our GitHub repository, propose different option to topics, communication channels and tools to follow up as “Square”, and talking about development side, dummy data base creation and data transformation process.  Two and three segment my contribution was the SQL data design and development, dashboard development as a “circle” role, for this reason also I run the final models just to assure the connection with SQL data base and right functionality, finally with my current experience as a presenter in the industrial forums I give some ideas and collaborate in the final presentation design. In the other hand the greatest personal challenge during this project was understand the NFL statistics just to try to give more support during our model design and work together with two guys with other NFL understanding level (I mean high level), at the end with great communication channels defined and constantly support I learned great thinks from this project.
+
+## Team assessment 
+During final project we used different communication tools, virtual meetings we used Teams, slack and zoom, for quick response we define what’s app and Teams were used for extra class hours meetings normally defining our curse at the beginning of each segment, Zoom and slack during class hours and What’s app for quick communication with test during our individual work or GitHub merges.  We normally defined meeting notes and share in the main channels. The strengths of this team were the **_knowledge sharing_** between everyone and define strengths for **_major technical skills for each one_** and using them to lead key activities as Data base shaping, cleaning, ML model development, also **_awareness and engagement_** as well.
+
+## Project summary
+
+This project was the analysis of NFL stats during last to create machine learning predictor of champions team using Kaggle data sources and using information along all times. In the project we used Python, Pandas, SQL and Tableau to create visualizations, databases, machine learning algorithms and a project dashboard. We developed various machine learning methods such as Logistic Regression, Random Forest Classifier and Balanced Random Forest Classifier. Finally, the highest success rate we had was that our model can predict a champion one of every 5 to 4 times it is tried and if given a set of champions it would correctly predict 1 in 3, considering the variety of variables and size of the imbalance it actually gives a pretty useful view of the possible winners of the Superbowl.
