@@ -1,6 +1,6 @@
 # Individual Self-Assessment 
 
-In the following one-page assessment I wrote the main activities and roles for final project, and team contribution during developing phase
+In the following one-page assessment I wrote the main activities and roles for final project, and team contribution during developing phase, also a project summary
 
 ## My Roles during project
 Along final project process I develop different roles to contribute to achieve the goal, in the first segment I created our GitHub repository, propose different option to topics, communication channels and tools to follow up as “Square”, and talking about development side, dummy data base creation and data transformation process.  Two and three segment my contribution was the SQL data design and development, dashboard development as a “circle” role, for this reason also I run the final models just to assure the connection with SQL data base and right functionality, finally with my current experience as a presenter in the industrial forums I give some ideas and collaborate in the final presentation design. In the other hand the greatest personal challenge during this project was understand the NFL statistics just to try to give more support during our model design and work together with two guys with other NFL understanding level (I mean high level), at the end with great communication channels defined and constantly support I learned great thinks from this project.
